@@ -1,0 +1,11 @@
+donnees volumineuses
+se poser une question sur les donnes : quels stations velo sont vides ? ou sont les bouchons ? ou creer une nouvelle station
+repondre a la question avec donnees (reponse positive ou negative)
+
+liberte sur le choix des donnes et des questions
+eviter image
+a rendre pour debut debut decembre
+
+faire un rapport jup notebook de moins de 10 pages (peut etre 1 ou 2 pages) 
+
+tiphaine viard : 4C42 tous les jours sauf vendredi
